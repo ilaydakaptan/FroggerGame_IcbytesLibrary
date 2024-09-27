@@ -1,0 +1,10 @@
+﻿  Kod üretiliyor
+  0 of 270 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+ICBYTESx64Release.lib(icbytes.obj) : warning LNK4099: PDB 'StudentLIB.pdb', 'ICBYTESx64Release.lib(icbytes.obj)' ile veya 'C:\Users\ilayd\Desktop\ATÜ\4.Sınıf\4.sınıf 1.dönem\Parallel Programming\ICBYTES-main\6-Impossible Mission\x64\Release\StudentLIB.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+ICBYTESx64Release.lib(icb_gui.obj) : warning LNK4099: PDB 'StudentLIB.pdb', 'ICBYTESx64Release.lib(icb_gui.obj)' ile veya 'C:\Users\ilayd\Desktop\ATÜ\4.Sınıf\4.sınıf 1.dönem\Parallel Programming\ICBYTES-main\6-Impossible Mission\x64\Release\StudentLIB.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+ICBYTESx64Release.lib(ic_media.obj) : warning LNK4099: PDB 'StudentLIB.pdb', 'ICBYTESx64Release.lib(ic_media.obj)' ile veya 'C:\Users\ilayd\Desktop\ATÜ\4.Sınıf\4.sınıf 1.dönem\Parallel Programming\ICBYTES-main\6-Impossible Mission\x64\Release\StudentLIB.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+ICBYTESx64Release.lib(jpgd.obj) : warning LNK4099: PDB 'StudentLIB.pdb', 'ICBYTESx64Release.lib(jpgd.obj)' ile veya 'C:\Users\ilayd\Desktop\ATÜ\4.Sınıf\4.sınıf 1.dönem\Parallel Programming\ICBYTES-main\6-Impossible Mission\x64\Release\StudentLIB.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  Impossible Mission.vcxproj -> C:\Users\ilayd\Desktop\ATÜ\4.Sınıf\4.sınıf 1.dönem\Parallel Programming\ICBYTES-main\6-Impossible Mission\x64\Release\Impossible Mission.exe
